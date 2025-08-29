@@ -1,4 +1,4 @@
-# ShadowHide (Cryptosteganography Tool)
+# ShadowHide 
 
 ## Overview
 
@@ -126,3 +126,4 @@ This project is released under the **MIT License**.
 ---
 
 For a deeper dive into how this code works, see [About\_code.md](About_code.md).
+
